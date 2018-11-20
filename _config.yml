@@ -1,0 +1,8 @@
+title: Live-css-editor
+description: jquery online css editor, themeroller like tool for customizing your web page
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
